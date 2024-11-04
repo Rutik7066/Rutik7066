@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Rutik7066's GitHub | Stats](https://stats.quira.sh/Rutik7066/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Rutik7066)
 [![Rutik7066's GitHub | Topics Over Time](https://stats.quira.sh/Rutik7066/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Rutik7066)
+[![Rutik7066's GitHub | Languages Over Time](https://stats.quira.sh/Rutik7066/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Rutik7066)
