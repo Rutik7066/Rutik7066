@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Rutik7066/Rutik7066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-[![Rutik7066's GitHub | Stats](https://stats.quira.sh/Rutik7066/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Rutik7066)
 
